@@ -1,1 +1,18 @@
-# CITATION.cff
+# CITATION.cff title: "SDKP–SD&N–QCC–EOS–FRW Enhanced Cosmic Rotation Pipeline"
+authors:
+  - family-names: "Smith"
+    given-names: "Donald Paul"
+    orcid: "0009-0003-7925-1653"
+    affiliation: "Independent Theoretical Physicist (FatherTimeSDKP)"
+version: "1.0"
+date-released: "2025-07-08"
+doi: "10.5281/zenodo.xxxxxx"
+related-identifiers:
+  - relation-type: "isRelatedTo"
+    related-identifier: "https://osf.io/ct75m"
+  - relation-type: "isRelatedTo"
+    related-identifier: "https://osf.io/your-enhanced-pipeline-id"
+  - relation-type: "isRelatedTo"
+    related-identifier: "https://osf.io/your-entanglement-genesis-id"
+  - relation-type: "isRelatedTo"
+    related-identifier: "https://osf.io/your-antimatter-simulation-id"
